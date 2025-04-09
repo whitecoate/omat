@@ -319,7 +319,7 @@
       <div class="row align-items-center">
         <div class="col-12">
         <a href="tel:+971567876643" class="link"> (+971) 567 876 643 |
-        <a href="mailto: info@omatproperties.com" class="link">info@omatproperties.com</a> | <a href=" www.omatproperties.com" class="link">omatproperties.com</a> 
+        <a href="mailto: info@omatproperties.com" class="link">info@omatproperties.com</a> | <a href="#" class="link">omatproperties.com</a> 
         </div>
       </div>
     </div>
