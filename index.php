@@ -215,23 +215,6 @@
           <div class="item">
             <div class="left-sec">
               <div class="pic">
-                <img src="img/partners/shobha.png" alt="Shobha Logo">
-              </div>
-            </div>
-            <div class="text">
-              <h4>Sobha Realty</h4>
-              <br><br>
-
-              Headquartered in Dubai, often regarded as the luxury capital of the modern world, Sobha Realty presents an exclusive and rare selection of highly sought-after properties in some of the globe's most desirable locations. Designed for those who demand the finest, these exceptional developments attract an eclectic mix of royalty and contemporary magnates. Meticulously crafted by master designers with an unparalleled attention to detail, these properties set the standard for the world’s premier real estate.
-              
-            </div>
-          </div>
-        </div>
-
-        <div>
-          <div class="item">
-            <div class="left-sec">
-              <div class="pic">
                 <img src="img/partners/damac.png" alt="Damac Logo">
               </div>
             </div>
